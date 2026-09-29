@@ -134,6 +134,9 @@ p { margin: 0 0 18px; }
 .result-card figcaption span { display: block; margin-bottom: 8px; color: var(--green); font-size: .74rem; font-weight: 850; text-transform: uppercase; }
 .result-card figcaption strong { display: block; font-family: "Arial Narrow", Impact, sans-serif; font-size: 1.55rem; line-height: 1.05; text-transform: uppercase; }
 .result-card figcaption p { margin-bottom: 0; color: #c5cbc6; }
+.result-card figcaption blockquote { margin: 22px 0 18px; color: #d7ddd8; font-size: .96rem; line-height: 1.65; }
+.result-card figcaption blockquote p { margin: 0 0 15px; color: inherit; }
+.result-card figcaption cite { color: var(--green); font-style: normal; font-weight: 850; }
 .result-card-story-only { grid-column: 1 / -1; }
 .result-story-copy { padding: 42px; max-width: 900px; }
 .result-story-copy > span { display: block; margin-bottom: 8px; color: var(--green); font-size: .74rem; font-weight: 850; text-transform: uppercase; }
