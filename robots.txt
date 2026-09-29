@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add the final sitemap URL after the business domain is approved.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace the domain below after the final business domain is approved. -->
+  <url><loc>https://REPLACE-WITH-FINAL-DOMAIN.example/</loc></url>
+  <url><loc>https://REPLACE-WITH-FINAL-DOMAIN.example/about.html</loc></url>
+  <url><loc>https://REPLACE-WITH-FINAL-DOMAIN.example/programs.html</loc></url>
+  <url><loc>https://REPLACE-WITH-FINAL-DOMAIN.example/transformations.html</loc></url>
+  <url><loc>https://REPLACE-WITH-FINAL-DOMAIN.example/pricing.html</loc></url>
+  <url><loc>https://REPLACE-WITH-FINAL-DOMAIN.example/contact.html</loc></url>
+</urlset>
