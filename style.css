@@ -137,6 +137,13 @@ p { margin: 0 0 18px; }
 .result-card figcaption blockquote { margin: 22px 0 18px; color: #d7ddd8; font-size: .96rem; line-height: 1.65; }
 .result-card figcaption blockquote p { margin: 0 0 15px; color: inherit; }
 .result-card figcaption cite { color: var(--green); font-style: normal; font-weight: 850; }
+.results-grid > :nth-child(4) { order: 1; }
+.results-grid > :nth-child(5) { order: 2; }
+.results-grid > :nth-child(3) { order: 3; }
+.results-grid > :nth-child(1) { order: 4; }
+.results-grid > :nth-child(2) { order: 5; }
+.results-grid > :nth-child(1) .result-image,
+.results-grid > :nth-child(2) .result-image { display: none; }
 .result-card-story-only { grid-column: 1 / -1; }
 .result-story-copy { padding: 42px; max-width: 900px; }
 .result-story-copy > span { display: block; margin-bottom: 8px; color: var(--green); font-size: .74rem; font-weight: 850; text-transform: uppercase; }
