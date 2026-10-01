@@ -142,6 +142,7 @@ p { margin: 0 0 18px; }
 .results-grid > :nth-child(3) { order: 3; }
 .results-grid > :nth-child(1) { order: 4; }
 .results-grid > :nth-child(2) { order: 5; }
+.results-grid > .brian-story { order: 6; }
 .results-grid > :nth-child(1) .result-image,
 .results-grid > :nth-child(2) .result-image { display: none; }
 .result-card-story-only { grid-column: 1 / -1; }
